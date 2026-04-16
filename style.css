@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(62, 62, 62);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 200px;           
+    border-radius: 15%;
+}
