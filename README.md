@@ -4,15 +4,15 @@ Heute baust du mit KI deine eigene Website – ganz ohne Vorkenntnisse!
 
 ---
 
-## 🛠️ Tool: Perplexity
+## 🛠️ Tool: Gemini
 
-👉 **[[chat.mistral.ai](https://chat.mistral.ai)](https://gemini.google.com/?hl=de)** öffnen – kostenlos, kein Login nötig
+👉 **(https://chat.mistral.ai)](https://gemini.google.com/?hl=de)** öffnen – kostenlos, kein Login nötig
 
 ---
 
 ## 📋 Schritt für Schritt
 
-**1. Perplexity öffnen**
+**1. Gemini öffnen**
 Gehe auf **[[chat.mistral.ai](https://chat.mistral.ai)](https://gemini.google.com/?hl=de)** – einfach losschreiben, kein Account nötig!
 
 **2. Den Code holen**
